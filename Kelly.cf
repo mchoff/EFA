@@ -5,3 +5,15 @@
 header KELLY ALL =~ /partofemailadd/i
 score KELLY 3.5
 describe KELLY Kelly email score
+
+
+
+
+
+
+
+
+======================================
+cf file is in /etc/mail/spamassasin/filename.cf (or put in local.cf)
+restart mail scanner
+mailwatch tools update rule desc.
