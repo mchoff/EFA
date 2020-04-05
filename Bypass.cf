@@ -1,0 +1,12 @@
+body BYPASS_RULE   /codeword/
+score BYPASS_RULE -100
+describe BYPASS_RULE    Bypass Rule. codeword anywhere in body.
+
+body BYPASS_RULE1   /matttest/
+score BYPASS_RULE1 -10
+describe BYPASS_RULE1    Bypass test Rule.
+
+
+
+
+
