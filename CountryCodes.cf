@@ -20,3 +20,10 @@ score    RELAYCOUNTRY_OK -0.01
 
 endif # Mail::SpamAssassin::Plugin::RelayCountry
 
+========================================================================================
+** Make sure to subscribe to maxmind.  need Account id and key insert here:
+/etc/GeoIP/GeoIP.conf
+
+make sure using LATEST geoipupdate!!!
+-v to test
+cron
