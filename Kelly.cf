@@ -1,0 +1,7 @@
+
+
+# KELLY RULE
+
+header KELLY ALL =~ /partofemailadd/i
+score KELLY 3.5
+describe KELLY Kelly email score
