@@ -19,3 +19,4 @@ score    RELAYCOUNTRY_OK -0.01
 
 
 endif # Mail::SpamAssassin::Plugin::RelayCountry
+
